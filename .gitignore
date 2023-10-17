@@ -2,6 +2,9 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+*.code-workspace
+.DS_Store
+*.ignore
 .vscode
 .vs
 *.VC.db
